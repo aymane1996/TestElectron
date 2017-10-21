@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "Une application GUI avec electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymane1996/TestElectron.git"
+  },
+  "author": "Aymane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aymane1996/TestElectron/issues"
+  },
+  "homepage": "https://github.com/aymane1996/TestElectron#readme",
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
